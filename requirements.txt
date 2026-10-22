@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+sqlalchemy>=2.0        # optional: PostgreSQL loader
+psycopg2-binary>=2.9   # optional: PostgreSQL loader
+jupyter                # optional: notebook
+pytest                 # optional: tests

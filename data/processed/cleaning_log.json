@@ -1,0 +1,22 @@
+{
+  "raw_rows": 148,
+  "raw_columns": [
+    "name",
+    "online_order",
+    "book_table",
+    "rate",
+    "votes",
+    "approx_cost(for two people)",
+    "listed_in(type)"
+  ],
+  "rating_format_fixed": 1,
+  "names_recased": 2,
+  "rows_with_missing_core_fields": 0,
+  "listing_rows": 148,
+  "restaurants": 145,
+  "multi_listed_restaurants": 3,
+  "low_confidence_ratings": 75,
+  "zero_vote_restaurants": 33,
+  "bayesian_prior_mean": 3.628,
+  "source_file": "zomato_data.csv"
+}
